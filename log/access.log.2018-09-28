@@ -1,0 +1,3 @@
+[2018-09-28T12:37:06.361] [INFO] http - 127.0.0.1 - - "GET /hotels HTTP/1.1" 200 8899 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+[2018-09-28T12:53:56.371] [INFO] http - 127.0.0.1 - - "GET /hotels HTTP/1.1" 200 8899 "http://localhost:4200/hotels" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+[2018-09-28T12:57:19.923] [INFO] http - 127.0.0.1 - - "GET /hotels HTTP/1.1" 200 8899 "http://localhost:4200/hotels" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"

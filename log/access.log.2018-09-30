@@ -1,0 +1,5 @@
+[2018-09-30T21:51:49.145] [INFO] http - 127.0.0.1 - - "GET / HTTP/1.1" 200 16 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+[2018-09-30T21:51:51.493] [ERROR] http - 127.0.0.1 - - "GET /favicon.ico HTTP/1.1" 404 150 "http://localhost:3000/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+[2018-09-30T21:52:02.560] [INFO] http - 127.0.0.1 - - "GET /hotels HTTP/1.1" 200 8899 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+[2018-09-30T22:31:59.447] [INFO] http - 127.0.0.1 - - "GET /hotels HTTP/1.1" 200 8899 "http://localhost:4200/hotels" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+[2018-09-30T22:31:59.574] [INFO] http - 127.0.0.1 - - "GET /hotels?offset=0&count=5 HTTP/1.1" 200 11551 "http://localhost:4200/hotels" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"

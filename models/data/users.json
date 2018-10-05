@@ -1,0 +1,30 @@
+[{
+  "name":"Admin",
+  "type":"admin",
+  "email":"admin@gmail.com",
+  "password":"@dmin1234",
+  "address":["Ameerpet Hyderabad","Ameerpet Hyderabad"],
+  "phoneNumber":"9999999999",
+  "activeStatus":false,
+  "gender":"male"
+},
+{
+  "name":"Wahid",
+  "type":"user",
+  "email":"wahid@gmail.com",
+  "password":"@dmin1234",
+  "address":["Ameerpet Hyderabad","Ameerpet Hyderabad"],
+  "phoneNumber":"9999999999",
+  "activeStatus":false,
+  "gender":"male"
+},
+{
+  "name":"ABCD",
+  "type":"user",
+  "email":"abcd@gmail.com",
+  "password":"@dmin1234",
+  "address":["Ameerpet Hyderabad","Ameerpet Hyderabad"],
+  "phoneNumber":"9999999999",
+  "activeStatus":false,
+  "gender":"male"
+}]

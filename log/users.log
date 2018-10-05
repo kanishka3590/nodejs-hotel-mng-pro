@@ -1,0 +1,285 @@
+[2018-09-20T11:58:10.368] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-20T11:58:10.378] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-20T12:08:10.767] [INFO] access - Hit POST /register
+[2018-09-20T12:08:11.952] [INFO] access - Registration Hit/register
+[2018-09-20T12:09:53.890] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-20T12:09:53.900] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-20T12:10:19.312] [INFO] access - Hit POST /register
+[2018-09-20T12:10:21.446] [INFO] access - Registration Hit/register
+[2018-09-20T12:10:22.071] [INFO] httpss - 127.0.0.1 - - "POST /register HTTP/1.1" 200 247 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36"
+[2018-09-20T12:11:07.035] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-20T12:11:07.048] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-21T19:46:25.189] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-21T19:46:25.195] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-21T19:46:32.390] [INFO] access - Hit GET /hotels
+[2018-09-21T19:47:17.236] [INFO] access - Hit GET /token
+[2018-09-21T19:48:15.899] [INFO] access - Hit POST /register
+[2018-09-21T19:48:16.098] [INFO] access - Registration Hit/register
+[2018-09-21T19:48:34.177] [INFO] access - Hit GET /token
+[2018-09-21T19:51:21.031] [INFO] access - Hit POST /bookhotel
+[2018-09-21T19:52:10.626] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-21T19:52:10.644] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-28T12:36:55.678] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-28T12:36:55.686] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-28T12:37:06.151] [INFO] access - Hit GET /hotels
+[2018-09-28T12:42:40.113] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-28T12:42:40.132] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-28T12:53:56.137] [INFO] access - Hit GET /hotels
+[2018-09-28T12:57:19.843] [INFO] access - Hit GET /hotels
+[2018-09-29T11:42:24.388] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-29T11:42:24.395] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-29T11:53:34.578] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-29T11:53:34.591] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-29T12:06:17.212] [INFO] access - Hit GET /hotels
+[2018-09-29T12:06:19.988] [INFO] access - Hit GET /hotels?offset=0&count=5
+[2018-09-29T12:06:21.411] [INFO] access - Hit GET /hotels?offset=5&count=10
+[2018-09-29T12:06:22.440] [INFO] access - Hit GET /hotels?offset=10&count=15
+[2018-09-29T12:08:25.196] [INFO] access - Hit GET /hotels
+[2018-09-29T12:13:10.293] [INFO] access - Hit GET /hotels
+[2018-09-29T12:15:18.332] [INFO] access - Hit GET /hotels
+[2018-09-29T12:18:12.042] [INFO] access - Hit GET /
+[2018-09-29T12:18:16.727] [INFO] access - Hit GET /favicon.ico
+[2018-09-29T12:18:24.142] [INFO] access - Hit GET /hotels
+[2018-09-29T12:18:29.323] [INFO] access - Hit GET /hotels
+[2018-09-29T12:20:24.718] [INFO] access - Hit GET /hotels
+[2018-09-29T12:20:31.113] [INFO] access - Hit GET /hotels
+[2018-09-29T12:22:36.450] [INFO] access - Hit GET /hotels
+[2018-09-29T12:25:02.392] [INFO] access - Hit GET /hotels
+[2018-09-29T12:25:06.790] [INFO] access - Hit GET /hotels
+[2018-09-29T12:28:07.132] [INFO] access - Hit GET /hotels
+[2018-09-29T12:28:18.074] [INFO] access - Hit GET /
+[2018-09-29T12:31:24.575] [INFO] access - Hit GET /hotels
+[2018-09-29T12:33:05.235] [INFO] access - Hit GET /hotels
+[2018-09-29T12:33:52.976] [INFO] access - Hit GET /hotels
+[2018-09-29T12:34:05.678] [INFO] access - Hit GET /hotels
+[2018-09-29T12:34:20.764] [INFO] access - Hit GET /hotels
+[2018-09-29T12:39:04.088] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-29T12:39:04.100] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-29T12:39:40.231] [INFO] access - Hit GET /hotels
+[2018-09-29T12:41:27.908] [INFO] access - Hit GET /hotels
+[2018-09-29T12:44:03.545] [INFO] access - Hit GET /hotels
+[2018-09-29T12:47:36.483] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-29T12:47:36.496] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-29T12:47:53.424] [INFO] access - Hit GET /hotels
+[2018-09-29T12:48:21.359] [INFO] access - Hit GET /
+[2018-09-29T12:49:39.195] [INFO] access - Hit GET /hotels
+[2018-09-29T12:50:38.647] [INFO] access - Hit GET /hotels
+[2018-09-29T12:53:49.918] [INFO] access - Hit GET /hotels
+[2018-09-29T12:54:40.484] [INFO] access - Hit GET /hotels
+[2018-09-29T12:56:13.795] [INFO] access - Hit GET /hotels
+[2018-09-29T12:59:10.084] [INFO] access - Hit GET /hotels
+[2018-09-29T13:00:10.044] [INFO] access - Hit GET /hotels
+[2018-09-29T13:03:06.546] [INFO] access - Hit GET /hotels
+[2018-09-29T13:07:08.812] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-29T13:07:08.819] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-29T13:07:35.433] [INFO] access - Hit GET /hotels
+[2018-09-29T13:15:27.384] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-29T13:15:27.396] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-29T13:19:55.366] [INFO] access - Hit GET /hotels
+[2018-09-29T13:28:05.527] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-29T13:28:05.537] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-29T21:10:45.365] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-29T21:10:45.374] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-30T21:49:13.496] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-09-30T21:49:13.503] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-09-30T21:51:48.875] [INFO] access - Hit GET /
+[2018-09-30T21:51:51.459] [INFO] access - Hit GET /favicon.ico
+[2018-09-30T21:52:02.205] [INFO] access - Hit GET /hotels
+[2018-09-30T22:31:58.074] [INFO] access - Hit GET /hotels
+[2018-09-30T22:31:59.489] [INFO] access - Hit GET /hotels?offset=0&count=5
+[2018-10-01T12:12:40.567] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-01T12:12:40.608] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-01T12:37:36.630] [INFO] access - Hit GET /hotels
+[2018-10-01T12:37:56.696] [INFO] access - Hit OPTIONS /login
+[2018-10-01T12:37:56.882] [INFO] access - Hit POST /login
+[2018-10-01T12:41:52.439] [INFO] access - Hit OPTIONS /login
+[2018-10-01T12:41:52.457] [INFO] access - Hit POST /login
+[2018-10-01T12:49:29.969] [INFO] access - Hit OPTIONS /login
+[2018-10-01T12:49:30.001] [INFO] access - Hit POST /login
+[2018-10-01T12:50:32.079] [INFO] access - Hit POST /login
+[2018-10-01T12:50:33.993] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1MzgzNzg0MzMsImV4cCI6MTUzODQyMTYzM30.HZtghMcV92rUUc_mJvC7bmhz1_a0aUd4ZdXsETCvyoI
+[2018-10-01T12:58:47.093] [INFO] access - Hit OPTIONS /register
+[2018-10-01T12:58:47.162] [INFO] access - Hit POST /register
+[2018-10-01T12:58:47.269] [INFO] access - Registration Hit/register
+[2018-10-01T13:04:02.096] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:04:02.133] [INFO] access - Hit POST /login
+[2018-10-01T13:04:36.646] [INFO] access - Hit OPTIONS /register
+[2018-10-01T13:04:36.684] [INFO] access - Hit POST /register
+[2018-10-01T13:04:36.717] [INFO] access - Registration Hit/register
+[2018-10-01T13:11:07.761] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:11:07.789] [INFO] access - Hit POST /login
+[2018-10-01T13:14:19.798] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:14:19.823] [INFO] access - Hit POST /login
+[2018-10-01T13:14:20.347] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1MzgzNzk4NjAsImV4cCI6MTUzODQyMzA2MH0.MU50zPzPusfUCXYQfmCpdR6AQ3VUam5sG5RLeQG6BJc
+[2018-10-01T13:20:52.167] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:20:52.196] [INFO] access - Hit POST /login
+[2018-10-01T13:20:52.718] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1MzgzODAyNTIsImV4cCI6MTUzODQyMzQ1Mn0.oDtgldsn58oZGcFaIgJgcrIK_-sSfbHKbZSLWCnh0EA
+[2018-10-01T13:22:17.750] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:22:17.785] [INFO] access - Hit POST /login
+[2018-10-01T13:22:18.293] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1MzgzODAzMzgsImV4cCI6MTUzODQyMzUzOH0.je1I1FZG9qqm3zUCDbdQYFooA9I8weWg9kOqE_JEkto
+[2018-10-01T13:23:30.002] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:23:30.035] [INFO] access - Hit POST /login
+[2018-10-01T13:23:30.547] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1MzgzODA0MTAsImV4cCI6MTUzODQyMzYxMH0.KtJlKpP-fD-Xp9SXu894ixetKRnYASUWngPcNXKALXg
+[2018-10-01T13:23:39.573] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:23:39.604] [INFO] access - Hit POST /login
+[2018-10-01T13:24:20.653] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:24:20.681] [INFO] access - Hit POST /login
+[2018-10-01T13:24:21.182] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1MzgzODA0NjEsImV4cCI6MTUzODQyMzY2MX0.9sESARpEu_J3gdCoCKEYxfm0c3hxego4Xae3bxeUXOY
+[2018-10-01T13:25:36.539] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:25:36.568] [INFO] access - Hit POST /login
+[2018-10-01T13:26:08.119] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:26:08.149] [INFO] access - Hit POST /login
+[2018-10-01T13:26:09.015] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1MzgzODA1NjksImV4cCI6MTUzODQyMzc2OX0.EbWEOvIQKwEtvhh39_MzjAar3mfBJLo2KjrRyC02fqc
+[2018-10-01T13:28:16.004] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:28:16.050] [INFO] access - Hit POST /login
+[2018-10-01T13:28:16.581] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1MzgzODA2OTYsImV4cCI6MTUzODQyMzg5Nn0.u1GsZVRoSbrkX-5Xfr7PSGMwpX2AE_ZIe7K-vSGgiRU
+[2018-10-01T13:28:16.903] [INFO] access - Hit GET /hotels
+[2018-10-01T13:28:33.293] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:28:33.324] [INFO] access - Hit POST /login
+[2018-10-01T13:29:19.734] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:29:19.782] [INFO] access - Hit POST /login
+[2018-10-01T13:30:03.847] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:30:03.896] [INFO] access - Hit POST /login
+[2018-10-01T13:30:41.823] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:30:41.871] [INFO] access - Hit POST /login
+[2018-10-01T13:30:48.342] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:30:48.374] [INFO] access - Hit POST /login
+[2018-10-01T13:31:17.036] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:31:17.075] [INFO] access - Hit POST /login
+[2018-10-01T13:31:36.251] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:31:36.286] [INFO] access - Hit POST /login
+[2018-10-01T13:32:34.401] [INFO] access - Hit OPTIONS /login
+[2018-10-01T13:32:34.435] [INFO] access - Hit POST /login
+[2018-10-01T13:32:34.948] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1MzgzODA5NTQsImV4cCI6MTUzODQyNDE1NH0.pgJPrXKQFKYJWRMmBkBYKRhPcSJ73LYS7EpaWHqToLQ
+[2018-10-01T13:32:35.087] [INFO] access - Hit GET /hotels
+[2018-10-01T13:32:45.855] [INFO] access - Hit GET /hotels?offset=5&count=10
+[2018-10-01T13:32:51.472] [INFO] access - Hit GET /hotels?offset=10&count=15
+[2018-10-01T13:33:01.187] [INFO] access - Hit GET /hotels?offset=16&count=15
+[2018-10-01T13:33:03.258] [INFO] access - Hit GET /hotels?offset=10&count=15
+[2018-10-01T13:33:04.805] [INFO] access - Hit GET /hotels?offset=4&count=15
+[2018-10-01T13:33:29.088] [INFO] access - Hit GET /hotels?offset=0&count=5
+[2018-10-01T13:34:11.012] [INFO] access - Hit OPTIONS /register
+[2018-10-01T13:34:11.083] [INFO] access - Hit POST /register
+[2018-10-01T13:34:11.165] [INFO] access - Registration Hit/register
+[2018-10-01T13:34:14.398] [INFO] access - Hit POST /register
+[2018-10-01T13:34:14.438] [INFO] access - Registration Hit/register
+[2018-10-01T13:35:09.805] [INFO] access - Hit OPTIONS /register
+[2018-10-01T13:35:09.861] [INFO] access - Hit POST /register
+[2018-10-01T13:35:09.884] [INFO] access - Registration Hit/register
+[2018-10-01T13:37:54.235] [INFO] access - Hit OPTIONS /register
+[2018-10-01T13:37:54.297] [INFO] access - Hit POST /register
+[2018-10-01T13:37:54.332] [INFO] access - Registration Hit/register
+[2018-10-01T13:37:55.582] [INFO] access - Hit GET /hotels
+[2018-10-01T14:17:43.918] [INFO] access - Hit GET /hotels
+[2018-10-01T14:19:08.242] [INFO] access - Hit GET /hotels
+[2018-10-01T14:20:23.019] [INFO] access - Hit GET /hotels
+[2018-10-01T14:21:07.079] [INFO] access - Hit GET /hotels
+[2018-10-02T12:07:54.290] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-02T12:07:54.301] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-02T12:50:43.232] [INFO] access - Hit OPTIONS /login
+[2018-10-02T12:50:43.340] [INFO] access - Hit POST /login
+[2018-10-02T12:50:45.835] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1Mzg0NjQ4NDUsImV4cCI6MTUzODUwODA0NX0.2oMt1UAObXcILJvMZuu2oMwEdGObOqJzfVnygjI8n5g
+[2018-10-02T13:18:47.977] [INFO] access - Hit OPTIONS /login
+[2018-10-02T13:18:48.093] [INFO] access - Hit POST /login
+[2018-10-02T13:18:49.071] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1Mzg0NjY1MjgsImV4cCI6MTUzODUwOTcyOH0.YVQEc9XtiLbCffi2sqozF0iEXiTGp-XidBZdziKFMcA
+[2018-10-02T13:26:29.131] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-02T13:26:29.149] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-02T13:28:47.162] [INFO] access - Hit OPTIONS /login
+[2018-10-02T13:28:47.288] [INFO] access - Hit POST /login
+[2018-10-02T13:28:58.053] [INFO] access - Hit OPTIONS /login
+[2018-10-02T13:28:58.085] [INFO] access - Hit POST /login
+[2018-10-02T13:29:00.269] [INFO] access - Hit POST /login
+[2018-10-02T13:29:01.028] [INFO] access - Hit POST /login
+[2018-10-02T13:29:01.110] [INFO] access - Hit POST /login
+[2018-10-02T13:29:01.556] [INFO] access - Hit POST /login
+[2018-10-02T13:30:48.836] [INFO] access - Hit POST /login
+[2018-10-02T13:30:58.092] [INFO] access - Hit POST /login
+[2018-10-02T13:31:00.278] [INFO] access - Hit OPTIONS /login
+[2018-10-02T13:31:00.287] [INFO] access - Hit POST /login
+[2018-10-02T13:31:01.043] [INFO] access - Hit POST /login
+[2018-10-02T13:31:01.117] [INFO] access - Hit POST /login
+[2018-10-02T13:33:00.298] [INFO] access - Hit POST /login
+[2018-10-02T13:36:19.747] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-02T13:36:19.757] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-02T18:07:38.083] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-02T18:07:38.096] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-02T18:11:12.820] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-02T18:11:12.830] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-02T18:32:30.778] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-02T18:32:30.792] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-02T18:39:25.782] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-02T18:39:25.789] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-02T20:09:24.343] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-02T20:09:24.351] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-03T12:03:53.021] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-03T12:03:53.030] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-03T12:15:03.913] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-03T12:15:03.951] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-03T12:59:30.193] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-03T12:59:30.200] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-03T13:00:21.586] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-03T13:00:21.594] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-03T13:05:24.240] [INFO] access - Hit OPTIONS /login
+[2018-10-03T13:05:24.549] [INFO] access - Hit POST /login
+[2018-10-03T13:05:26.144] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1Mzg1NTIxMjYsImV4cCI6MTUzODU5NTMyNn0.GY_8KxY92J6_IVOS99BaRngCDvw9FwQUC3tb0ou45kY
+[2018-10-03T13:07:22.890] [INFO] access - Hit OPTIONS /login
+[2018-10-03T13:07:22.929] [INFO] access - Hit POST /login
+[2018-10-03T13:07:23.463] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1Mzg1NTIyNDMsImV4cCI6MTUzODU5NTQ0M30.9Azvj3ZAdC5CPi3L00fC2tTBxsZrSaR-e9Kh7bAwVHo
+[2018-10-03T14:28:49.068] [INFO] access - Hit OPTIONS /login
+[2018-10-03T14:28:49.280] [INFO] access - Hit POST /login
+[2018-10-03T14:28:49.904] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1Mzg1NTcxMjksImV4cCI6MTUzODYwMDMyOX0.vvuvRmOLUYlTi0SgudVWmkKxKzf3Q421wsYl5Z44r4c
+[2018-10-03T14:34:43.894] [INFO] access - Hit OPTIONS /login
+[2018-10-03T14:34:43.921] [INFO] access - Hit POST /login
+[2018-10-03T14:34:44.447] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1Mzg1NTc0ODQsImV4cCI6MTUzODYwMDY4NH0.hllidfk2lkpN42v1FWtc0hpkou-gm2yiRNo_XE9rtvI
+[2018-10-03T14:36:39.064] [INFO] access - Hit OPTIONS /login
+[2018-10-03T14:36:39.115] [INFO] access - Hit POST /login
+[2018-10-03T14:36:39.623] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1Mzg1NTc1OTksImV4cCI6MTUzODYwMDc5OX0.npd3Mc3IVbiC87T60C-PxJeswcfXC1eei2nDTARmGWM
+[2018-10-03T14:43:15.620] [INFO] access - Hit OPTIONS /login
+[2018-10-03T14:43:15.650] [INFO] access - Hit POST /login
+[2018-10-03T14:43:16.152] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1Mzg1NTc5OTYsImV4cCI6MTUzODYwMTE5Nn0._dE4oyPfdirweE0M-MbigdygS67rGXoxpGa9tNTROAg
+[2018-10-03T14:43:16.255] [INFO] access - Hit OPTIONS /hotels
+[2018-10-03T14:43:16.452] [INFO] access - Hit GET /hotels
+[2018-10-03T14:44:03.982] [INFO] access - Hit OPTIONS /login
+[2018-10-03T14:44:04.010] [INFO] access - Hit POST /login
+[2018-10-03T14:44:04.579] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1Mzg1NTgwNDQsImV4cCI6MTUzODYwMTI0NH0.P6Pv2ceB_WgNmUmd4RuULYSgBJR-Ck96yDi31UxSIpY
+[2018-10-03T14:44:04.680] [INFO] access - Hit OPTIONS /hotels
+[2018-10-03T14:44:04.734] [INFO] access - Hit GET /hotels
+[2018-10-03T14:45:38.225] [INFO] access - Hit OPTIONS /login
+[2018-10-03T14:45:38.249] [INFO] access - Hit POST /login
+[2018-10-03T14:45:38.755] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1Mzg1NTgxMzgsImV4cCI6MTUzODYwMTMzOH0.bPVlyu-k0J32pbySCkbnNuKASQCasIjM4lRqCbN4a9E
+[2018-10-03T14:45:38.930] [INFO] access - Hit OPTIONS /hotels
+[2018-10-03T14:45:38.999] [INFO] access - Hit GET /hotels
+[2018-10-03T14:45:55.843] [INFO] access - Hit OPTIONS /login
+[2018-10-03T14:45:55.874] [INFO] access - Hit POST /login
+[2018-10-03T14:45:56.384] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1Mzg1NTgxNTYsImV4cCI6MTUzODYwMTM1Nn0.ycyE8LhUuUkS8MbLOua1l9Iaz4AUKYJZEfNhe4XfNo4
+[2018-10-03T14:45:56.435] [INFO] access - Hit OPTIONS /hotels
+[2018-10-03T14:45:56.499] [INFO] access - Hit GET /hotels
+[2018-10-03T14:49:12.700] [INFO] access - Hit OPTIONS /hotels
+[2018-10-03T14:49:12.911] [INFO] access - Hit GET /hotels
+[2018-10-03T14:50:20.966] [INFO] access - Hit OPTIONS /hotels?offset=6&count=5
+[2018-10-03T14:50:21.028] [INFO] access - Hit GET /hotels?offset=6&count=5
+[2018-10-03T14:52:34.799] [INFO] access - Hit OPTIONS /hotels
+[2018-10-03T14:52:34.852] [INFO] access - Hit GET /hotels
+[2018-10-03T14:54:09.897] [INFO] access - Hit OPTIONS /hotels
+[2018-10-03T14:54:10.118] [INFO] access - Hit GET /hotels
+[2018-10-03T14:54:32.025] [INFO] access - Hit OPTIONS /hotels
+[2018-10-03T14:54:32.109] [INFO] access - Hit GET /hotels
+[2018-10-03T14:55:06.152] [INFO] access - Hit OPTIONS /hotels
+[2018-10-03T14:55:06.361] [INFO] access - Hit GET /hotels
+[2018-10-03T14:55:16.886] [INFO] access - Hit GET /
+[2018-10-03T14:55:18.438] [INFO] access - Hit GET /favicon.ico
+[2018-10-03T14:55:22.599] [INFO] access - Hit GET /hotels
+[2018-10-03T14:58:50.783] [INFO] access - Hit POST /login
+[2018-10-03T14:58:51.335] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1Mzg1NTg5MzEsImV4cCI6MTUzODYwMjEzMX0.-Chs40_rmcQxM-h2nZHvXhlVFpXL6Vp2sme5rosVUW8
+[2018-10-03T19:35:34.787] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-03T19:35:34.798] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-03T19:47:29.817] [INFO] access - Hit POST /login
+[2018-10-03T19:47:31.182] [INFO] user - User is registered with token  eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJfaWQiOiI1YmEwYjEwM2FjMzIyNzI1YmMyMGI5YTUiLCJpYXQiOjE1Mzg1NzYyNTEsImV4cCI6MTUzODYxOTQ1MX0.doNaqJ7kn0Sl6w29LPmSL7lGs2gzUumMtSpHo4Ic6ZQ
+[2018-10-03T19:47:52.664] [INFO] access - Hit GET /hotels
+[2018-10-03T19:50:19.699] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-03T19:50:19.706] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-03T19:51:10.605] [INFO] access - Hit GET /hotels
+[2018-10-04T13:24:22.020] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-04T13:24:22.034] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000
+[2018-10-05T11:54:14.924] [INFO] startUpLogger - Server Now WIth Logger on PORT :3000
+[2018-10-05T11:54:14.942] [INFO] startUpLogger - Server Now WIth Logger on http://127.0.0.1:3000

@@ -1,0 +1,7 @@
+[2018-10-02T12:50:43.307] [INFO] http - 127.0.0.1 - - "OPTIONS /login HTTP/1.1" 200 4 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+[2018-10-02T12:50:45.841] [INFO] http - 127.0.0.1 - - "POST /login HTTP/1.1" 200 252 "http://localhost:4200/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+[2018-10-02T13:18:48.090] [INFO] http - 127.0.0.1 - - "OPTIONS /login HTTP/1.1" 200 4 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+[2018-10-02T13:18:49.136] [INFO] http - 127.0.0.1 - - "POST /login HTTP/1.1" 200 252 "http://localhost:4200/login" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+[2018-10-02T13:28:47.279] [INFO] http - 127.0.0.1 - - "OPTIONS /login HTTP/1.1" 200 4 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+[2018-10-02T13:28:58.061] [INFO] http - 127.0.0.1 - - "OPTIONS /login HTTP/1.1" 200 4 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
+[2018-10-02T13:31:00.282] [INFO] http - 127.0.0.1 - - "OPTIONS /login HTTP/1.1" 200 4 "" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36"
